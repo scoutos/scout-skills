@@ -1,11 +1,11 @@
 ---
 name: scout
-description: Interact with Scout (hyper63) data platform API. Use when working with Scout collections, tables, documents, agents, drive storage, syncs, or usage. Supports CRUD operations on collections/tables/documents, agent management, file uploads/downloads, data sync configuration from various sources (web, Notion, Google Drive, etc.), and usage monitoring.
+description: Interact with Scout data platform API. Use when working with Scout collections, tables, documents, agents, drive storage, syncs, or usage. Supports CRUD operations on collections/tables/documents, agent management, file uploads/downloads, data sync configuration from various sources (web, Notion, Google Drive, etc.), and usage monitoring.
 ---
 
 # Scout API Skill
 
-Interact with Scout (hyper63) data platform for collections, tables, documents, agents, drive storage, syncs, and usage tracking.
+Interact with Scout data platform for collections, tables, documents, agents, drive storage, syncs, and usage tracking.
 
 ## Authentication
 
@@ -856,5 +856,5 @@ Scout API has rate limits to ensure fair usage. If you hit a rate limit:
 
 - **Official Docs**: https://docs.scoutos.com
 - **API Reference**: https://docs.scoutos.com/api-sdk
-- **Status Page**: https://status.hyper63.com
-- **Support**: support@hyper63.com
+- **Status Page**: https://status.scoutos.com
+- **Support**: support@scoutos.com

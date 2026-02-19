@@ -1,6 +1,6 @@
 # Scout Skills
 
-Skills for OpenClaw agents to interact with Scout (hyper63 data platform).
+Skills for OpenClaw agents to interact with Scout data platform.
 
 ## Overview
 
@@ -10,7 +10,7 @@ This project provides OpenClaw skills for working with Scout's data capabilities
 
 ### `scout` - Scout API Integration
 
-Interact with Scout (hyper63) data platform API. Use when working with Scout collections, tables, documents, agents, drive storage, syncs, or usage.
+Interact with Scout data platform API. Use when working with Scout collections, tables, documents, agents, drive storage, syncs, or usage.
 
 **Capabilities:**
 
@@ -79,8 +79,8 @@ All Scout API endpoints require a Bearer token:
 
 - **Official Docs**: https://docs.scoutos.com
 - **API Reference**: https://docs.scoutos.com/api-sdk
-- **Status Page**: https://status.hyper63.com
-- **Support**: support@hyper63.com
+- **Status Page**: https://status.scoutos.com
+- **Support**: support@scoutos.com
 
 ## License
 
