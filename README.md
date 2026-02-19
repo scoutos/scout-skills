@@ -1,10 +1,10 @@
 # Scout Skills
 
-Skills for OpenClaw agents to interact with Scout data platform.
+Skills for agents to interact with Scout data platform.
 
 ## Overview
 
-This project provides OpenClaw skills for working with Scout's data capabilities - collections, tables, documents, agents, drive storage, syncs, and usage monitoring.
+This project provides agent skills for working with Scout's data capabilities - collections, tables, documents, agents, drive storage, syncs, and usage monitoring.
 
 ## Skills
 
@@ -61,10 +61,9 @@ curl -X POST \
 Copy the skill directory to your OpenClaw skills folder:
 
 ```bash
-cp -r scout-skills ~/.openclaw/workspace/skills/
+npx skills add scoutos/scout-skills
 ```
 
-Or use the packaged `scout.skill` file.
 
 ## Authentication
 
